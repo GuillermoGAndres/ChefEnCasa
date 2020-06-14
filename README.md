@@ -2,7 +2,7 @@
 ![logo aplicacion](img/logo.png)
 >El **hilo principal** de la aplicacion es:
 
->menuUI.py
+>             menuUI.py
 
 
 >Ejecutar este script para iniciar la aplicacion
